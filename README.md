@@ -4,6 +4,7 @@
 I added a couple of methods and converted the dictionary so that it works with Python 3.5+
 
 Added: card.int_to_strs(card_ints)     - This will allow the user to print a list of cards rather than individual cards.
+
 Added: card.int_to_pretty_strs(card_ints)  - Will convert a list of cards into the pretty print version.
 
 A pure Python poker hand evaluation library
